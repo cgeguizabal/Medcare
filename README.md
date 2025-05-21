@@ -4,6 +4,9 @@ A simple and clean medical appointment booking web app built with React.js and *
 Designed to help users easily manage and schedule their medical appointments.
 
 ---
+#Preview
+https://medcarecgeo.netlify.app/
+---
 
 ## 🚀 Features
 
@@ -23,7 +26,8 @@ Designed to help users easily manage and schedule their medical appointments.
 - CSS Modules / Styled Components 🎨  
 - React Router for navigation 🔀  
 - Firestore (Firebase) for backend database and real-time data 🌐  
-- Fetch API / Axios for data requests 🌐  
+- Fetch API / Axios for data requests 🌐
+- SweetAlert 2
 
 ---
 
